@@ -8,7 +8,7 @@ const PostAddForm = () => {
             <input
                 type="text"
                 className="form-control new-post-label"
-                placeholder="What about are you thinking?"
+                placeholder="What are you thinking about?"
             />
             <button
                 className="btn btn-outline-secondary"
